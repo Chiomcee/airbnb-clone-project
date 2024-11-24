@@ -77,6 +77,144 @@ The typography for the mockup design includes:
 
 ---
 
+## **Project Overview**
+The AirBnB Clone project aims to replicate key features of the popular AirBnB platform. It focuses on building a user-friendly interface for property browsing, detailed views, and a streamlined booking process.
+
+---
+
+## **Project Roles and Responsibilities**
+
+In any software development project, clearly defined roles and responsibilities are critical to ensuring its success. Below is an outline of the roles involved in the AirBnB Clone project and their key contributions:
+
+---
+
+### **Project Manager (PM)** 🗂️  
+**Overview:**  
+The Project Manager oversees the entire project, ensuring that objectives are met on time and within budget.
+
+**Key Responsibilities:**  
+- Plan and execute the project timeline, milestones, and deliverables.  
+- Manage resources, budgets, and team schedules.  
+- Facilitate effective communication within the team and with stakeholders.  
+- Identify risks and develop mitigation strategies.  
+- Act as the primary liaison between the team and external stakeholders.  
+
+**Contribution to Success:**  
+The PM ensures smooth project execution by aligning team efforts with the overall goals.
+
+---
+
+### **Frontend Developers** 💻  
+**Overview:**  
+Frontend developers are responsible for implementing the client-side of the application, creating an engaging and responsive user interface.
+
+**Key Responsibilities:**  
+- Develop UI components using React.js and TypeScript.  
+- Implement responsive designs with HTML, CSS, and TailwindCSS.  
+- Integrate frontend functionality with backend APIs.  
+- Optimize the application for performance and scalability.  
+- Collaborate with designers to implement visual and interactive elements.  
+
+**Contribution to Success:**  
+Their work ensures a smooth and visually appealing user experience, meeting design and usability goals.
+
+---
+
+### **Backend Developers** 🔧  
+**Overview:**  
+Backend developers focus on server-side logic, database management, and integration of APIs.
+
+**Key Responsibilities:**  
+- Develop and maintain server-side logic using Python and Django.  
+- Design and manage databases (e.g., MySQL).  
+- Build and integrate RESTful APIs for frontend communication.  
+- Ensure application security and data integrity.  
+- Optimize server performance for scalability and reliability.  
+
+**Contribution to Success:**  
+They ensure that the system operates efficiently, securely, and reliably.
+
+---
+
+### **Designers** 🎨  
+**Overview:**  
+Designers are responsible for creating the visual and interactive elements of the project.
+
+**Key Responsibilities:**  
+- Develop wireframes, mockups, and prototypes using tools like Figma.  
+- Ensure a consistent visual identity across the application.  
+- Collaborate with frontend developers for seamless design implementation.  
+- Conduct usability tests to refine the design.  
+
+**Contribution to Success:**  
+Designers create a user-friendly interface that enhances the overall user experience.
+
+---
+
+### **QA/Testers** 🧪  
+**Overview:**  
+Quality Assurance/Testers ensure the application is reliable, bug-free, and meets user expectations.
+
+**Key Responsibilities:**  
+- Develop and execute test plans, including manual and automated tests.  
+- Identify, document, and track bugs.  
+- Perform regression testing and validate bug fixes.  
+- Ensure the application adheres to quality standards.  
+
+**Contribution to Success:**  
+Their work ensures that the final product is stable, reliable, and user-friendly.
+
+---
+
+### **DevOps Engineers** 🚀  
+**Overview:**  
+DevOps Engineers handle deployment, automation, and server management to ensure seamless operations.
+
+**Key Responsibilities:**  
+- Set up and manage CI/CD pipelines (e.g., using Jenkins).  
+- Automate deployment and infrastructure provisioning.  
+- Monitor application performance and uptime.  
+- Ensure production environment security and compliance.  
+
+**Contribution to Success:**  
+DevOps ensures the efficient deployment and maintenance of the application.
+
+---
+
+### **Product Owner (PO)** 📋  
+**Overview:**  
+The Product Owner defines the vision for the product and ensures it meets user needs and business goals.
+
+**Key Responsibilities:**  
+- Define and prioritize product features and requirements.  
+- Maintain and manage the product backlog.  
+- Communicate the product vision to the team.  
+- Ensure that the product delivers value to users.  
+
+**Contribution to Success:**  
+The PO aligns the development process with business goals and user expectations.
+
+---
+
+### **Scrum Master** 🏅  
+**Overview:**  
+The Scrum Master facilitates Agile practices and helps the team follow Scrum methodologies.
+
+**Key Responsibilities:**  
+- Organize and lead Scrum ceremonies (e.g., stand-ups, sprint planning).  
+- Identify and remove obstacles to team progress.  
+- Promote continuous improvement through retrospectives.  
+- Coach the team on Agile principles.  
+
+**Contribution to Success:**  
+The Scrum Master fosters a productive and collaborative team environment.
+
+---
+
+**Collaboration Among Roles**  
+Each role plays a unique and integral part in the project's success. Through clear communication and collaboration, the team ensures that the AirBnB Clone project is delivered on time, within scope, and to the highest quality standards.
+
+---
 ### **Design Goals**  
 1. **Simplicity:** Create a clean and minimalistic interface to reduce cognitive load.  
 2. **Responsiveness:** Ensure the design works seamlessly on desktop, tablet, and mobile devices.  
