@@ -215,6 +215,99 @@ The Scrum Master fosters a productive and collaborative team environment.
 Each role plays a unique and integral part in the project's success. Through clear communication and collaboration, the team ensures that the AirBnB Clone project is delivered on time, within scope, and to the highest quality standards.
 
 ---
+
+## **UI Component Patterns**
+
+Creating consistent and reusable UI components is essential for maintaining the quality and scalability of the application. Based on the provided [Figma design](https://www.figma.com/design/E2BRqdPcKkrnX6hLGPto8Z/Project-Airbnb?node-id=1-4&node-type=canvas), here are the primary UI components planned for the AirBnB Clone project:
+
+---
+
+### **1. Navbar**  
+**Description:**  
+The Navbar component will serve as the main navigation element across all pages of the application.
+
+**Key Features:**  
+- Application logo on the left for branding.  
+- Navigation links to essential sections: Home, Search, Favorites, and Profile.  
+- Search functionality embedded into the Navbar for quick access.  
+- User-specific options, such as Login/Signup or a profile dropdown.  
+- Responsive behavior to adapt to mobile and desktop views.  
+
+---
+
+### **2. Property Card**  
+**Description:**  
+A Property Card component will be used to display individual property details on the listing page.
+
+**Key Features:**  
+- Image of the property with hover effects for interactivity.  
+- Property title, brief description, and location.  
+- Pricing per night displayed prominently.  
+- User rating or reviews indicator.  
+- Call-to-action buttons like "View Details" or "Save to Favorites."  
+- Ensures visual consistency across the grid view.
+
+---
+
+### **3. Footer**  
+**Description:**  
+The Footer component will contain supplementary information and links at the bottom of every page.
+
+**Key Features:**  
+- Navigation links to About Us, Terms of Service, Privacy Policy, and Contact Us.  
+- Social media icons for external platform redirection.  
+- Branding/logo alongside a tagline or brief description.  
+- Copyright notice and the current year.  
+- Designed to be responsive across all devices.
+
+---
+
+### **4. Search Bar**  
+**Description:**  
+The Search Bar component will enhance user accessibility by enabling location-based and date-specific searches.
+
+**Key Features:**  
+- Input fields for destination, check-in, and check-out dates.  
+- Dropdown menus for guest selection.  
+- Integrated search button for executing queries.  
+- Positioned prominently in the Navbar or as a standalone component on the homepage.  
+
+---
+
+### **5. Modal**  
+**Description:**  
+A reusable Modal component for tasks requiring user confirmation or interaction.
+
+**Key Features:**  
+- Login/signup forms.  
+- Booking confirmation details.  
+- Responsive design for desktop and mobile displays.  
+
+---
+
+### **6. Button**  
+**Description:**  
+Customizable buttons for various user actions across the app.
+
+**Key Features:**  
+- Types: Primary, secondary, and outlined.  
+- Icon support for actions like adding to favorites or navigating back.  
+- Consistent styling and hover effects.
+
+---
+
+### **Importance of UI Component Patterns**  
+- **Reusability**: Simplifies the codebase by reusing components in multiple sections.  
+- **Consistency**: Ensures a uniform look and feel across the application.  
+- **Scalability**: Makes it easy to expand or modify features as the application grows.  
+- **Improved Collaboration**: Designers and developers can work seamlessly by referencing a common design system.  
+
+---
+
+Explore the Figma design [here](https://www.figma.com/design/E2BRqdPcKkrnX6hLGPto8Z/Project-Airbnb?node-id=1-4&node-type=canvas) to see detailed mockups of these components and their intended visual and functional design.
+
+---
+
 ### **Design Goals**  
 1. **Simplicity:** Create a clean and minimalistic interface to reduce cognitive load.  
 2. **Responsiveness:** Ensure the design works seamlessly on desktop, tablet, and mobile devices.  
