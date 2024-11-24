@@ -2,6 +2,7 @@
 
 The goal of this project is to provide practical experience in developing a simple booking and management system inspired by AirBnB. This project emphasizes building a user-friendly UI/UX that supports essential functionalities.
 
+
 ---
 
 ## **Project Overview**
@@ -48,6 +49,31 @@ At the end of this program, you will:
 
 ### **Objective**  
 To ensure a seamless and engaging user experience by designing intuitive, visually appealing, and responsive interfaces that prioritize functionality and user satisfaction.
+
+---
+
+### **Color Styles**  
+Here is a list of the primary color styles used in the design mockup:  
+- **Primary Color:** #FF5A5F (AirBnB red/pink)  
+- **Secondary Color:** #00A699 (teal green)  
+- **Background Color:** #FFFFFF (white)  
+- **Text Color (Primary):** #484848 (dark gray)  
+- **Text Color (Secondary):** #767676 (light gray)  
+
+---
+
+### **Typography**  
+The typography for the mockup design includes:  
+- **Font Family:**  
+  - Primary: *Circular* (or fallback: Arial, sans-serif)  
+- **Font Weights:**  
+  - Light: 300  
+  - Regular: 400  
+  - Bold: 700  
+- **Font Sizes:**  
+  - Headings: 32px, 24px, 18px  
+  - Body Text: 16px, 14px  
+  - Small Text: 12px  
 
 ---
 
